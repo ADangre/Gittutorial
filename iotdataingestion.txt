@@ -1,2 +1,4 @@
 I'm ingesting real time data for IOT
 How the IOT data is useful for the streaming pipeline.
+Consider Dev 2 will be working on the IOT part of the project.
+So, obviously he has to make his own changes as per his assigned tasks.
